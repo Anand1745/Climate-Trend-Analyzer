@@ -126,7 +126,7 @@ This project uses a **synthetic climate dataset** generated using:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/Anand1745/Climate-Trend-Analyzer.git
 cd Climate-Trend-Analyzer
 ```
 
